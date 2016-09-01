@@ -22,7 +22,7 @@ h1{
 
 /*HOME*/
 #home{
-	background-image: url(../img/banner.jpg);
+	background-image: url(img/banner.jpg);
     background-repeat: no-repeat;
 	background-size: cover;	
 }
@@ -177,7 +177,7 @@ h1{
 
 /*TESTIMONIALS*/
 #testimonials {
-	background-image: url(../img/paralax.jpg);
+	background-image: url(img/paralax.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;	
 }
